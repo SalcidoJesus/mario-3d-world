@@ -1,8 +1,8 @@
 
 import React from "react";
-import video01 from "../videos/video01.mp4";
-import video02 from "../videos/video02.mp4";
-import coin from "../img/coin.gif";
+import video01 from "../assets/video01.mp4";
+import video02 from "../assets/video02.mp4";
+import coin from "../assets/coin.gif";
 
 const BodyPage = () => {
   return (

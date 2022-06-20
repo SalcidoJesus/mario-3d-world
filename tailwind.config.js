@@ -8,12 +8,12 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: theme => ({
-        'wave-pattern': 'url(./src/img/wave-white.png)',
-        'wave-pattern-dots': 'url(./src/img/pattern-white-dots.png)',
-        'pattern-characters-red': 'url(./src/img/pattern-characters-red.png)',
-        'character-mario': 'url(./src/img/character-l.png)',
-        'wave-pink': 'url(./src/img/wave-pink.png)',
-        'yellow-pink': 'url(./src/img/pattern-yellow-dots.png)',
+        'wave-pattern': 'url(./assets/wave-white.png)',
+        'wave-pattern-dots': 'url(./assets/pattern-white-dots.png)',
+        'pattern-characters-red': 'url(./assets/pattern-characters-red.png)',
+        'character-mario': 'url(./assets/character-l.png)',
+        'wave-pink': 'url(./assets/wave-pink.png)',
+        'yellow-pink': 'url(./assets/pattern-yellow-dots.png)',
       }),
       screens: {
         'xsm': '320px'

@@ -1,6 +1,6 @@
 
 import React, { useEffect } from 'react'
-import imgLogo from "../img/logo.png";
+import imgLogo from "../assets/logo.png";
 
 const Menu = () => {
 

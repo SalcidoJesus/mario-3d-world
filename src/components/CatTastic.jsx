@@ -1,6 +1,6 @@
 
 import React from "react";
-import activity_img3 from "../img/activity_img3.png";
+import activity_img3 from "../assets/activity_img3.png";
 
 const CatTastic = () => {
   return (
